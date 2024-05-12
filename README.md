@@ -22,18 +22,25 @@ Sharing bicycle demand forecasting and redistribution Routing Project Research
 > 
 > c. Work on PPT and video presentation 
 > 
-> 🏆2022 National "Industrial Engineering and Management" College Student Special Paper and Technical Report Competition Big Data Analysis and Information System Excellent Works
+> 🏆 Honorable Mention (Big Data and Information Systems),
+> 2022 CIIE Student Monograph Competition
+> 大學生專題論文佳作(大數據分析與資訊系統組)，
+> 2022全國工業工程與管理大學生專題論文與技術報告競賽
 > 
-> Copyright© No one shall download, reprint, reproduce, distribute, publicly broadcast, publish or distribute the research content of our project research in any form without written consent.
+> 🏆 Honorable Mention Award
+> 2022 NYCU 2nd Sustainable Development Goals Student Research Poster Awards
+> 佳作，2022 國立陽明交通大學第二屆聯合國永續發展目標SDGs論文海報競賽
+> 
+> Copyright© No one shall download, reprint, reproduce, distribute, publicly broadcast, publish or distribute the research content of our project research in any form without written consent.©
+> 
 ## Quick Guide
 
 If you want to quickly go through this project, start here!
 
-1. Watch our [Youtube presentation video ](https://www.youtube.com/watch?v=NEtkb0T8vGE) 
+1. Watch our [Youtube presentation video ](https://www.youtube.com/watch?v=NEtkb0T8vGE)
 2. Read our full paper ([ chinese ](https://drive.google.com/file/d/1kp41gxX0jrnYMOhmS2N_PKk_ILE-XPiQ/view?usp=sharing)/ english )
 3. View our project code ( [Demand forcasting ](https://drive.google.com/drive/folders/1V76LZZrjoxJZziA-NIosvwE0mHmeKjaA?usp=sharing)/ [Sharing bicycle redistribution](https://) )
-
-> When in doubt, use brute force. [name=Ken Thompson, Computer Scientist]
+4. [Poster Link](https://sdgs.nycu.edu.tw/wp-content/uploads/017-%E4%BD%B3%E4%BD%9C-%E7%B5%90%E5%90%88%E6%B7%B1%E5%BA%A6%E5%AD%B8%E7%BF%92%E9%A0%90%E6%B8%AC%E7%AB%99%E9%BB%9E%E4%BE%9B%E9%9C%80%E9%87%8F%E4%B9%8B%E5%85%B1%E4%BA%AB%E5%96%AE%E8%BB%8A%E5%86%8D%E9%85%8D%E9%80%81%E8%B7%AF%E5%BE%91%E5%95%8F%E9%A1%8C.pdf)
 
 Abstrct
 ---
